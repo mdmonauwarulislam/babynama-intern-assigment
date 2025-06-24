@@ -1,5 +1,5 @@
 
-````markdown
+
 # Babynama - Frontend Developer Intern Assignment
 
 Welcome to my submission for the Babynama internship assignment. This project simulates a real-world feature development task using **Next.js** and **React.js**, with a focus on clear UI, modular code, and developer mindset.
@@ -21,7 +21,7 @@ Welcome to my submission for the Babynama internship assignment. This project si
 ## Live URL
 
 **Vercel Deployment:**  
-👉 [https://your-vercel-url.vercel.app/webinars](https://your-vercel-url.vercel.app/webinars)
+👉 [https://your-vercel-url.vercel.app/webinars](https://babynama-intern-assigment.vercel.app/)
 
 ---
 
@@ -71,11 +71,9 @@ Created a new route `/webinars` that displays a structured, styled page containi
 ### Button Interactivity
 Each webinar card includes a “View Details” button that logs the webinar ID:
 
-```bash
 Viewing details for webinar ID: 2
 ````
 
----
 
 ## Technical Choices Made
 
@@ -139,7 +137,7 @@ export const webinars = [
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mdmonauwarulislam/babunama-intern-assigment.git
+git clone https://github.com/mdmonauwarulislam/babynama-intern-assigment.git
 cd babynama-intern-assignment
 ```
 
