@@ -21,7 +21,7 @@ Welcome to my submission for the Babynama internship assignment. This project si
 ## Live URL
 
 **Vercel Deployment:**  
-👉 [https://your-vercel-url.vercel.app/webinars](https://babynama-intern-assigment.vercel.app/)
+👉 [https://babynama-intern-assigment.vercel.app/](https://babynama-intern-assigment.vercel.app/)
 
 ---
 
