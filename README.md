@@ -71,7 +71,6 @@ Created a new route `/webinars` that displays a structured, styled page containi
 Each webinar card includes a “View Details” button that logs the webinar ID:
 
 Viewing details for webinar ID: 2
-````
 
 
 ## Technical Choices Made
