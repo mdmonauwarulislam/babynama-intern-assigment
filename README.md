@@ -34,7 +34,6 @@ Welcome to my submission for the Babynama internship assignment. This project si
 
 
 
----
 
 ## Features Implemented
 
